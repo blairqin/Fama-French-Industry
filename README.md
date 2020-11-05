@@ -9,4 +9,4 @@ Download Fama French industry classifications and convert them to read to use fo
 + `ffi_desp`: Fama French industry description;
 + `sic_s`: Standard industrial classification (SIC) starting code;
 + `sic_e`: SIC ending code;
-+ `sic_desp`: Description of the SIC.
++ `sic_desp`: Description of the SIC code.
