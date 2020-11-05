@@ -1,0 +1,59 @@
+ffi,ffi_name,ffi_desp,sic_s,sic_e,sic_desp
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",0100,0999,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",2000,2399,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",2700,2749,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",2770,2799,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3100,3199,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3940,3989,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",2500,2519,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",2590,2599,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3630,3659,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3710,3711,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3714,3714,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3716,3716,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3750,3751,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3792,3792,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3900,3939,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",3990,3999,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5000,5999,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",7200,7299,
+1,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",7600,7699,
+2,Manuf,"Manufacturing, Energy, and Utilities",2520,2589,
+2,Manuf,"Manufacturing, Energy, and Utilities",2600,2699,
+2,Manuf,"Manufacturing, Energy, and Utilities",2750,2769,
+2,Manuf,"Manufacturing, Energy, and Utilities",2800,2829,
+2,Manuf,"Manufacturing, Energy, and Utilities",2840,2899,
+2,Manuf,"Manufacturing, Energy, and Utilities",3000,3099,
+2,Manuf,"Manufacturing, Energy, and Utilities",3200,3569,
+2,Manuf,"Manufacturing, Energy, and Utilities",3580,3621,
+2,Manuf,"Manufacturing, Energy, and Utilities",3623,3629,
+2,Manuf,"Manufacturing, Energy, and Utilities",3700,3709,
+2,Manuf,"Manufacturing, Energy, and Utilities",3712,3713,
+2,Manuf,"Manufacturing, Energy, and Utilities",3715,3715,
+2,Manuf,"Manufacturing, Energy, and Utilities",3717,3749,
+2,Manuf,"Manufacturing, Energy, and Utilities",3752,3791,
+2,Manuf,"Manufacturing, Energy, and Utilities",3793,3799,
+2,Manuf,"Manufacturing, Energy, and Utilities",3860,3899,
+2,Manuf,"Manufacturing, Energy, and Utilities",1200,1399,
+2,Manuf,"Manufacturing, Energy, and Utilities",2900,2999,
+2,Manuf,"Manufacturing, Energy, and Utilities",4900,4949,
+3,HiTec,"Business Equipment, Telephone and Television Transmission",3570,3579,
+3,HiTec,"Business Equipment, Telephone and Television Transmission",3622,3622,Industrial controls
+3,HiTec,"Business Equipment, Telephone and Television Transmission",3660,3692,
+3,HiTec,"Business Equipment, Telephone and Television Transmission",3694,3699,
+3,HiTec,"Business Equipment, Telephone and Television Transmission",3810,3839,
+3,HiTec,"Business Equipment, Telephone and Television Transmission",7370,7372,Services - computer programming and data processing
+3,HiTec,"Business Equipment, Telephone and Television Transmission",7373,7373,Computer integrated systems design
+3,HiTec,"Business Equipment, Telephone and Television Transmission",7374,7374,"Services - computer processing, data preparation and processing"
+3,HiTec,"Business Equipment, Telephone and Television Transmission",7375,7375,Services - information retrieval services
+3,HiTec,"Business Equipment, Telephone and Television Transmission",7376,7376,Services - computer facilities management service
+3,HiTec,"Business Equipment, Telephone and Television Transmission",7377,7377,Services - computer rental and leasing
+3,HiTec,"Business Equipment, Telephone and Television Transmission",7378,7378,Services - computer maintenance and repair
+3,HiTec,"Business Equipment, Telephone and Television Transmission",7379,7379,Services - computer related services
+3,HiTec,"Business Equipment, Telephone and Television Transmission",7391,7391,Services - R&D labs
+3,HiTec,"Business Equipment, Telephone and Television Transmission",8730,8734,"Services - research, development, testing labs"
+3,HiTec,"Business Equipment, Telephone and Television Transmission",4800,4899,
+4,Hlth,"Healthcare, Medical Equipment, and Drugs",2830,2839,
+4,Hlth,"Healthcare, Medical Equipment, and Drugs",3693,3693,
+4,Hlth,"Healthcare, Medical Equipment, and Drugs",3840,3859,
+4,Hlth,"Healthcare, Medical Equipment, and Drugs",8000,8099,
